@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#btn {
+    margin-bottom: 10px;
+}
+
+#container {
+    display: flex;
+    width: 525px;
+    height: auto;
+    flex-wrap: wrap;
+}
